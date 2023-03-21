@@ -5,6 +5,7 @@
 
 <img width="505" alt="Screenshot 2022-11-14 at 5 08 14 PM" src="https://user-images.githubusercontent.com/44912347/201778552-88c2c9e5-f258-4a88-83b5-ddf245353a14.png">
 
+***NOTE: The final project will not have images or links, but you can research how to add these in!***
 
 ## Project Specs
 Your final page should have all of the following:
@@ -14,20 +15,8 @@ Your final page should have all of the following:
 
 ### Tags
 - A `title` tag within the `head` tag that contains the title of your page
-- A `link` tag within the `head`. In the href attribute, use the following css file: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
-- At least one comment
 - A page title that uses a `h1` tag
-- A tagline beneeth the title that uses a `h4` tag.
+- A tagline beneath the title that uses a `h4` tag.
 - At least one sentence describing your travel agency using a `p` tag to contain the text.
-- An `img` element providing a picture of at least one of the places your page describes.
-  - The `src` can be any image you prefer. Don't care about the image? You can use this one: https://the-travel-masters.com/wp-content/uploads/2012/06/Eiffel-Tower.jpg
-  - An an `alt` to describe your image.
-- Use the `a` tag to add a link to the official homepage for the location you are descirbing. For example, if you are doing Eiffel Tower, then you could like to this page: https://www.toureiffel.paris/en. 
 - Create a bulleted list that will contain a list of sites to see in the location you are describing
-- Create a numbered list that will hold an iteinerary. This can describe the top 5 things to do in the location you are describing
-- Wrap the `img` tag in a `div` element. 
-
-### Attributes
-- Give one of your `p` tags an ID attribute of `id = "motivation"`
-- Give your `img` tag a class attribute of `class = "feature-image"`
-- The `div` should have a class of `picture-container`
+- Create a numbered list that will hold an itinerary. This can describe the top 5 things to do in the location you are describing
