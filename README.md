@@ -16,7 +16,7 @@ Your final page should have all of the following:
 ### Tags
 - A `title` tag within the `head` tag that contains the title of your page
 - A page title that uses a `h1` tag
-- A tagline beneath the title that uses a `h4` tag.
+- A tagline beneath the title that uses a `h3` tag.
 - At least one sentence describing your travel agency using a `p` tag to contain the text.
 - Create a bulleted list that will contain a list of sites to see in the location you are describing
 - Create a numbered list that will hold an itinerary. This can describe the top 5 things to do in the location you are describing
